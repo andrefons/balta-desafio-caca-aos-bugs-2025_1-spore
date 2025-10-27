@@ -15,14 +15,14 @@ Neste processo eu aprendi:
 * ✅ Utilizar o `dotnet user-secrets`
 
 ## REGRAS DO DESAFIO
-- ✅ Realizar um fork do repositório do desafio
-- ✅ Instalar o .NET 9
-- ✅ Instalar o Visual Studio Code, Visual Studio ou Rider
-- ✅ Configurar as variáveis de ambiente
-- ✅ Criar uma Migration usando Entity Framework
-- ✅ Gerar o banco de dados
-- ✅ Executar a aplicação
-- ✅ Testar a aplicação
+- [ ] Realizar um fork do repositório do desafio
+- [ ] Instalar o .NET 9
+- [ ] Instalar o Visual Studio Code, Visual Studio ou Rider
+- [ ] Configurar as variáveis de ambiente
+- [ ] Criar uma Migration usando Entity Framework
+- [ ] Gerar o banco de dados
+- [ ] Executar a aplicação
+- [ ] Testar a aplicação
 
 ## Sobre o Caça aos Bugs
 O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias para aplicações em cenários reais. Durante os 9 desafios desta jornada, os participantes são submetidos ao aprendizado e prática de Depuração de Aplicações, Testes de Unidade, Testes E2E, Melhorias de UI, Melhorias de Performance, Deployment e Infraestrutura,
